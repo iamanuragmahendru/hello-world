@@ -9,3 +9,5 @@ int main() {
     cout << "The sum of " << a << " and " << b << " = " << c << endl;
 
 }
+
+//Verified by Apoorv Sharma
